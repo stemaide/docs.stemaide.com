@@ -112,7 +112,7 @@ delay (500);
 
 **Step 2:** Select the arduino board and port _See the [Getting Started](../../../../README.md#getting-started) section:Selecting Arduino Board Type and Uploading your code_.
 
-**Step 3:** Upload your code. \_See the [Getting Started](../../../../README.md#getting-started) section:Selecting Arduino Board Type and Uploading your code
+**Step 3:** Upload your code.See the [Getting Started](../../../../README.md#getting-started) section:Selecting Arduino Board Type and Uploading your code
 
 ## CONCLUSION
 
